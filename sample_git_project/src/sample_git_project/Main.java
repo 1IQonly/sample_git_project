@@ -2,6 +2,6 @@ package sample_git_project;
 
 public class Main {
 	public static void main(String[]args) {
-		System.out.println("Hola Hello");		
+		System.out.println("Testing Git updates!");		
 	}
 }
